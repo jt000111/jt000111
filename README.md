@@ -9,9 +9,6 @@
 - 🥅 2021 Goals : [Solved.ac in #1000]
 
 ---
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jt000111)](https://solved.ac/jt000111/)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jt000111&show_icons=true&theme=tokyonight)
 
 
